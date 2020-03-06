@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: a72b04546d7cb17408a0920a846050eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverScreen: {instanceID: 0}
+  - player: {instanceID: 0}
+  - virtualPlayer: {instanceID: 0}
+  - handImage: {instanceID: 0}
+  - arrowLeft: {instanceID: 0}
+  - arrowRight: {instanceID: 0}
+  - obstacleMaterial: {instanceID: 0}
+  - planeMaterial: {fileID: 2100000, guid: f4604ca237b5c744bbd6d70b41c83fa0, type: 3}
+  - defaultMaterial: {instanceID: 0}
+  - gameOverOverlay: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - stageText: {instanceID: 0}
+  - cameraShaker: {instanceID: 0}
+  - levelButtonPrefab: {instanceID: 0}
+  - levelContainer: {instanceID: 0}
+  - levelSelectorScreen: {instanceID: 0}
+  - menuObject: {instanceID: 0}
+  - gameOverContent: {instanceID: 0}
+  - playerNeverDie: {instanceID: 0}
+  - fpsCounter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
